@@ -1,4 +1,4 @@
-Author note: Refer to Bike-sharing.ipynb for the Linear regression exercise referred to in the slides. 
+Author's note: Refer to Bike-sharing.ipynb for the Linear regression exercise referred to in the slides. 
 Content below is verbatim README from the dataset source - including citation details.
 
 **************************************************************************************************************************
